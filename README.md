@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AshtonPrice8
+- 👀 I’m interested in programming, especially SwiftUI.
+- 🌱 I’m currently continuing to learn SwiftUI.
